@@ -1,0 +1,13 @@
+# Ignora a pasta de configuração do VS CODE
+
+.vscode/
+
+# Ignora arquivos executáveis compilados
+
+*.exe
+*.out
+
+# Ignora arquivos objeto intermediários
+
+*.o
+*.obj
